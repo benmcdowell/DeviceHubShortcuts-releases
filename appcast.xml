@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Hub Shortcuts Updates</title>
+    <link>https://github.com/benmcdowell/DeviceHubShortcuts-releases/releases</link>
+    <description>Signed Hub Shortcuts updates for macOS.</description>
+    <language>en</language>
+  </channel>
+</rss>
