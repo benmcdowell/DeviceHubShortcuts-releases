@@ -1,6 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
+    <item>
+      <title>Hub Shortcuts 0.1.0</title>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Sun, 18 Oct 2026 01:22:32 GMT</pubDate>
+      <enclosure url="https://github.com/benmcdowell/DeviceHubShortcuts-releases/releases/download/v0.1.0/DeviceHubShortcuts-0.1.0.zip" sparkle:edSignature="J4deV3MTIgEv7bBpTOmx7Mtpy082pFviuHiM8b6IezNSPzbyWRGnYsZnRxZWQvfRLXCQwD+Rc3rQtCYXSvx3Bw==" length="1528913" type="application/octet-stream" />
+    </item>
     <title>Hub Shortcuts Updates</title>
     <link>https://github.com/benmcdowell/DeviceHubShortcuts-releases/releases</link>
     <description>Signed Hub Shortcuts updates for macOS.</description>
