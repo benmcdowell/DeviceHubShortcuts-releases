@@ -2,6 +2,14 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>Hub Shortcuts 0.1.9</title>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <pubDate>Mon, 19 Oct 2026 10:56:13 GMT</pubDate>
+      <enclosure url="https://github.com/benmcdowell/DeviceHubShortcuts-releases/releases/download/v0.1.9/DeviceHubShortcuts-0.1.9.zip" sparkle:edSignature="xaOCQM7c7d3MZwMIjmWdQJwwIhP56Mbs5K/QKTrehLD3TiZsWQ+w2MQgAC2SmaVfNpXCykPpB34s5FZew0L9BA==" length="4076243" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Hub Shortcuts 0.1.8</title>
       <sparkle:version>9</sparkle:version>
       <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
